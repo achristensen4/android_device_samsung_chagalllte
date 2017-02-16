@@ -5,6 +5,5 @@
 # Radio
 rild.libpath=/system/lib/libsec-ril.so
 rild.libargs=-d /dev/ttyS0
-ro.telephony.default_network=9
+ro.telephony.default_network=4
 ro.telephony.ril_class=ChagalllteRIL
-ro.ril.telephony.mqanelements=6
